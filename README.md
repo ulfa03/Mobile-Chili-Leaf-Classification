@@ -8,11 +8,11 @@
 
 ## 🚀 Fitur Utama
 
-- 📸 **Foto object atau Upload gambar daun cabai rawit langsung dari perangkat
-- 🔍 **Klasifikasi Jenis penyakit daun Cabai Rawit secara real-time.
-- 📊 **Menampilkan hasil klasifikasi lengkap dengan confidence score, gejala dan cara mengatasinya
-- 📝 **Melihat histori prediksi gambar
-- ℹ️ **Tentang aplikasi
+- 📸 Foto object atau Upload gambar daun cabai rawit langsung dari perangkat
+- 🔍 Klasifikasi Jenis penyakit daun Cabai Rawit secara real-time.
+- 📊 Menampilkan hasil klasifikasi lengkap dengan confidence score, gejala dan cara mengatasinya
+- 📝 Melihat histori prediksi gambar
+- ℹ️ Tentang aplikasi
 
 - ---
 
