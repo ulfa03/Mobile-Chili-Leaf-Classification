@@ -6,7 +6,7 @@
 
 ## 🚀 Fitur Utama
 
-- 📸 FPhoto object or Upload image of cayenne pepper leaf directly from device
+- 📸 Photo object or Upload image of cayenne pepper leaf directly from device
 - 🔍 Klasifikasi Jenis penyakit daun Cabai Rawit secara real-time.
 - 📊 Menampilkan hasil klasifikasi lengkap dengan confidence score, gejala dan cara mengatasinya
 - 📝 Melihat histori prediksi gambar
