@@ -1,6 +1,6 @@
 # 🌶️ Mobile Chili Leaf Classification 🍃📱
 
-**Mobile Chili Leaf Classification adalah sebuah aplikasi berbasis mobile yang mampu melakukan klasifikasi jenis penyakit pada daun cabai secara otomatis menggunakan model Convolutional Neural Network (CNN) yang telah dibangun. Aplikasi ini dapat mengenali kondisi daun cabai dalam 5 jenis penyakit berdasarkan citra yang diunggah oleh pengguna.**
+**MMobile Chili Leaf Classification is a mobile-based application that is able to automatically classify types of diseases in chili leaves using the Convolutional Neural Network (CNN) model that has been built. This application can recognize the condition of chili leaves in 5 types of diseases based on images uploaded by users..**
 
 ---
 
