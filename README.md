@@ -6,7 +6,7 @@
 
 ## 🚀 Fitur Utama
 
-- 📸 Foto object atau Upload gambar daun cabai rawit langsung dari perangkat
+- 📸 FPhoto object or Upload image of cayenne pepper leaf directly from device
 - 🔍 Klasifikasi Jenis penyakit daun Cabai Rawit secara real-time.
 - 📊 Menampilkan hasil klasifikasi lengkap dengan confidence score, gejala dan cara mengatasinya
 - 📝 Melihat histori prediksi gambar
@@ -15,6 +15,6 @@
 - ---
 
 # 📑 Tentang Proyek
-**Aplikasi ini memudahkan petani atau pengguna umum dalam mendeteksi penyakit daun cabai hanya dengan mengunggah gambar melalui smartphone, serta mengetahui gejala dan cara pengobatan dar penyakit pada daun cabai rawit**
+**This application makes it easier for farmers or general users to detect chili leaf diseases by simply uploading images via smartphone, as well as knowing the symptoms and treatment methods for diseases in cayenne pepper leaves**
 
 - ---
